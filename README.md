@@ -22,7 +22,6 @@ Set up a home lab to practice and gain hands-on experience with Active Directory
 - 
 
 ## Walkthrough/Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Set Up Virtual Machines:
 
